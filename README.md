@@ -1,5 +1,3 @@
-# 42_ft_printf
-
 # **ft_printf**
 This project was graded <strong>100/100</strong>.
 
